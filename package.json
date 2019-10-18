@@ -1,0 +1,23 @@
+{
+  "name": "g.raphael",
+  "version": "1.0.0",
+  "description": "g.Raphaël - Official charting plugin for Raphaël =========",
+  "main": "g.raphael.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harikrish/g.raphael.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harikrish/g.raphael/issues"
+  },
+  "homepage": "https://github.com/harikrish/g.raphael#readme"
+}
